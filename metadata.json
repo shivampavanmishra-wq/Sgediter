@@ -1,0 +1,6 @@
+{
+  "name": "SG EDITER — 3D Anime & Cinematic Editing Studio",
+  "description": "Ultra-realistic 3D anime-inspired creative editing studio portfolio for SG EDITER. Anime edits, cinematic video editing, AMVs, reels, photo retouching, and 3D motion graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
